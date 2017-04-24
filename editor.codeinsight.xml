@@ -1,0 +1,6 @@
+<application>
+  <component name="DaemonCodeAnalyzerSettings" profile="Glide Inspections" />
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
+</application>
