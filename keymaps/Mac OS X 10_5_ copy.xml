@@ -3,6 +3,7 @@
   <action id="EditBreakpoint">
     <keyboard-shortcut first-keystroke="shift meta f8" />
     <keyboard-shortcut first-keystroke="shift meta b" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
