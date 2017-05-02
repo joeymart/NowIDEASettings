@@ -14,7 +14,6 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.jav</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.java,*/xml</mask>
@@ -24,7 +23,9 @@
       <mask>*.java,*</mask>
       <mask>*.java,*.xml</mask>
       <mask>*.java,</mask>
+      <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
