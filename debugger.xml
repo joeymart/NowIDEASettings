@@ -65,7 +65,6 @@
   <component name="XDebuggerSettings">
     <data-views>
       <option name="valueLookupDelay" value="500" />
-      <show-values-inline>false</show-values-inline>
     </data-views>
     <general />
     <debuggers>
