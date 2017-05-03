@@ -1,33 +1,19 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="sys_db_object*" />
+    <option name="FILE_MASK" value="*.java,*.xml" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.java,*/xml</mask>
       <mask>*.java,*/xm</mask>
       <mask>*.java,*/x</mask>
       <mask>*.java,*/</mask>
-      <mask>*.java,*</mask>
-      <mask>*.java,*.xml</mask>
-      <mask>*.java,</mask>
       <mask>*.jav</mask>
-      <mask>*.x</mask>
       <mask>*.j</mask>
-      <mask>*.java</mask>
-      <mask>*.xml</mask>
       <mask>sys</mask>
       <mask>sys_</mask>
       <mask>sys_db</mask>
@@ -35,6 +21,22 @@
       <mask>sys_db_objec</mask>
       <mask>sys_db_object</mask>
       <mask>sys_db_object*</mask>
+      <mask>*.x</mask>
+      <mask>*.xmls=</mask>
+      <mask>*.xmls</mask>
+      <mask>*.xml</mask>
+      <mask>s*.xml</mask>
+      <mask>sys*.xml</mask>
+      <mask>sys_*.xml</mask>
+      <mask>sys_sc*.xml</mask>
+      <mask>sys_script*.xml</mask>
+      <mask>sys_script</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
+      <mask>*.java,</mask>
+      <mask>*.java,*</mask>
+      <mask>*.java,*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
