@@ -3,15 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.j</mask>
-      <mask>sys</mask>
-      <mask>sys_</mask>
-      <mask>sys_db</mask>
-      <mask>sys_db_</mask>
-      <mask>sys_db_objec</mask>
-      <mask>sys_db_object</mask>
       <mask>sys_db_object*</mask>
       <mask>*.xmls=</mask>
       <mask>*.xmls</mask>
@@ -35,6 +27,13 @@
       <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xml,</mask>
+      <mask>*.xml,*</mask>
+      <mask>*.xml,*.c</mask>
+      <mask>*.xml,*.ks</mask>
+      <mask>*.xml,*.k</mask>
+      <mask>*.xml,*.</mask>
+      <mask>*.xml,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
