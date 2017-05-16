@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml,*.js,*.java" />
     <recentFileMasks>
-      <mask>sys_*.xml</mask>
-      <mask>sys_sc*.xml</mask>
-      <mask>sys_script*.xml</mask>
-      <mask>sys_script</mask>
       <mask>*</mask>
       <mask>*.jav,*.xml</mask>
       <mask>*.java,</mask>
@@ -20,21 +16,25 @@
       <mask>**.xml</mask>
       <mask>*.jav</mask>
       <mask>*.x</mask>
-      <mask>*.xml,*</mask>
       <mask>*.xml,*.c</mask>
       <mask>*.xml,*.ks</mask>
       <mask>*.xml,*.k</mask>
-      <mask>*.xml,*.js</mask>
       <mask>*.xml,*.</mask>
       <mask>*.xm</mask>
-      <mask>*.xml,</mask>
-      <mask>*.xml</mask>
       <mask>*.hava</mask>
       <mask>*.hav</mask>
       <mask>*.ha</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
+      <mask>*.xml,</mask>
+      <mask>*.xml,*</mask>
+      <mask>*.xml,*.js</mask>
+      <mask>*.xml,*.js,</mask>
+      <mask>*.xml,*.js,*</mask>
+      <mask>*.xml,*.js,*.</mask>
+      <mask>*.xml,*.js,*.java</mask>
     </recentFileMasks>
   </component>
 </application>
