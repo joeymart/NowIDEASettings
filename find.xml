@@ -1,10 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../glide/glide/src.plugins/com/glide/amb/server/AMBPropertyExtension.java - [glide]'" />
-    <option name="defaultScopeName" value="File '.../glide/glide/src.plugins/com/glide/amb/server/AMBPropertyExtension.java - [glide]'" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../glide/glide/src.plugins/com/glide/amb/server/AMBPropertyExtension.java - [glide]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.java,*.xml</mask>
       <mask>*.j*.xml</mask>
@@ -21,7 +19,6 @@
       <mask>*.hav</mask>
       <mask>*.ha</mask>
       <mask>*.h</mask>
-      <mask>*.xml</mask>
       <mask>*.xml,</mask>
       <mask>*.xml,*</mask>
       <mask>*.xml,*.js</mask>
@@ -36,6 +33,7 @@
       <mask>*.u</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
