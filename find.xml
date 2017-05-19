@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.java,*.xml</mask>
       <mask>*.j*.xml</mask>
@@ -32,9 +31,9 @@
       <mask>*.ua</mask>
       <mask>*.u</mask>
       <mask>*.</mask>
-      <mask>*.xml</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
