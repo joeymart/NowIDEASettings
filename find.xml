@@ -1,25 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="selection" />
-    <option name="defaultScopeName" value="selection" />
-    <option name="SEARCH_SCOPE" value="selection" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml,*.java, *.xml,*.js`" />
     <recentFileMasks>
-      <mask>*.java,*.xml</mask>
-      <mask>*.j*.xml</mask>
-      <mask>*.*.xml</mask>
-      <mask>**.xml</mask>
-      <mask>*.x</mask>
-      <mask>*.xml,*.c</mask>
-      <mask>*.xml,*.ks</mask>
-      <mask>*.xml,*.k</mask>
-      <mask>*.xml,*.</mask>
-      <mask>*.xm</mask>
       <mask>*.hava</mask>
       <mask>*.hav</mask>
       <mask>*.ha</mask>
       <mask>*.h</mask>
-      <mask>*.xml,</mask>
-      <mask>*.xml,*</mask>
       <mask>*.xml,*.js</mask>
       <mask>*.xml,*.js,</mask>
       <mask>*.xml,*.js,*</mask>
@@ -34,6 +23,18 @@
       <mask>*.jav</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.xml,</mask>
+      <mask>*.xml,*</mask>
+      <mask>*.xml,*.</mask>
+      <mask>*.xml,*.java</mask>
+      <mask>*.xml,*.java,</mask>
+      <mask>*.xml,*.java,</mask>
+      <mask>*.xml,*.java, *</mask>
+      <mask>*.xml,*.java, *.ks</mask>
+      <mask>*.xml,*.java, *.</mask>
+      <mask>*.xml,*.java, *.js</mask>
+      <mask>*.xml,*.java, *.xml,*.js</mask>
+      <mask>*.xml,*.java, *.xml,*.js`</mask>
     </recentFileMasks>
   </component>
 </application>
