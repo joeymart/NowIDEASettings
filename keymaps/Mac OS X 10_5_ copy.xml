@@ -67,6 +67,10 @@
     <keyboard-shortcut first-keystroke="alt f9" />
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="meta s" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
