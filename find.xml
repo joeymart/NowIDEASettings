@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Module 'glide'" />
+    <option name="defaultScopeName" value="Module 'glide'" />
+    <option name="SEARCH_SCOPE" value="Module 'glide'" />
     <recentFileMasks>
-      <mask>*.xml,*.js</mask>
       <mask>*.xml,*.js,</mask>
       <mask>*.xml,*.js,*</mask>
       <mask>*.xml,*.js,*.</mask>
@@ -29,11 +28,12 @@
       <mask>*.xml,*.java, *.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xmk</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
