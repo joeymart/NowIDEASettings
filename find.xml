@@ -7,7 +7,6 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="sys_d*.xml" />
     <recentFileMasks>
       <mask>*.xml,*.js,*.java</mask>
       <mask>*.uava</mask>
