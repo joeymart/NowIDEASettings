@@ -4,15 +4,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="sys_d*.xml" />
     <recentFileMasks>
-      <mask>*.xml,*.js,</mask>
-      <mask>*.xml,*.js,*</mask>
-      <mask>*.xml,*.js,*.</mask>
       <mask>*.xml,*.js,*.java</mask>
       <mask>*.uava</mask>
       <mask>*.uav</mask>
@@ -40,6 +36,9 @@
       <mask>*.java</mask>
       <mask>*</mask>
       <mask>*.xml</mask>
+      <mask>sys*.xml</mask>
+      <mask>sys_*.xml</mask>
+      <mask>sys_d*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
