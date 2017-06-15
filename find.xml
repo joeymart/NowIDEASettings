@@ -7,11 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.u</mask>
-      <mask>*.jav</mask>
-      <mask>*.xml,*.java</mask>
       <mask>*.xml,*.java,</mask>
       <mask>*.xml,*.java,</mask>
       <mask>*.xml,*.java, *</mask>
@@ -27,18 +23,21 @@
       <mask>sys*.xml</mask>
       <mask>sys_*.xml</mask>
       <mask>sys_d*.xml</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xml,*.js,*.java</mask>
       <mask>*.xml,s,*.java</mask>
-      <mask>*.xml,*.js</mask>
-      <mask>*.xml,*.j</mask>
-      <mask>*.xml,*.</mask>
-      <mask>*.xml,*</mask>
-      <mask>*.xml,</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.xml,</mask>
+      <mask>*.xml,*,hs</mask>
+      <mask>*.xml,*,</mask>
+      <mask>*.xml,*</mask>
+      <mask>*.xml,*.</mask>
+      <mask>*.xml,*.j</mask>
+      <mask>*.xml,*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
