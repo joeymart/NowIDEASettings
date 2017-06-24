@@ -8,7 +8,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.xml,*.java, *</mask>
       <mask>*.xml,*.java, *.ks</mask>
       <mask>*.xml,*.java, *.</mask>
       <mask>*.xml,*.java, *.js</mask>
@@ -17,7 +16,6 @@
       <mask>*.xml,*.java, *.xml</mask>
       <mask>*.xmk</mask>
       <mask>*.xm</mask>
-      <mask>*.ja</mask>
       <mask>sys*.xml</mask>
       <mask>sys_*.xml</mask>
       <mask>sys_d*.xml</mask>
@@ -31,13 +29,15 @@
       <mask>*.xml,*</mask>
       <mask>*.xml,*.</mask>
       <mask>*.xml,*.j</mask>
-      <mask>*</mask>
       <mask>*.jav</mask>
-      <mask>*.java</mask>
       <mask>*.k</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.xml,*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
+      <mask>*.java,</mask>
     </recentFileMasks>
   </component>
 </application>
