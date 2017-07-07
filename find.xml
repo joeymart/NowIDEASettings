@@ -7,10 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="plugin.xml" />
     <recentFileMasks>
-      <mask>*.xml,*.java, *.</mask>
-      <mask>*.xml,*.java, *.js</mask>
-      <mask>*.xml,*.java, *.xml,*.js</mask>
       <mask>*.xml,*.java, *.xml,*.js`</mask>
       <mask>*.xml,*.java, *.xml</mask>
       <mask>*.xmk</mask>
@@ -38,6 +36,9 @@
       <mask>*.</mask>
       <mask>I*.java</mask>
       <mask>*.java</mask>
+      <mask>pl</mask>
+      <mask>plugin</mask>
+      <mask>plugin.xml</mask>
     </recentFileMasks>
   </component>
 </application>
