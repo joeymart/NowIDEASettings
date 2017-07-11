@@ -3,6 +3,7 @@
     <EXCLUDED_PACKAGE NAME="com.sun.javafx.collections.MappingChange.Map" />
     <EXCLUDED_PACKAGE NAME="com.sun.tools.javac.util.List" />
     <EXCLUDED_PACKAGE NAME="com.sun.xml.internal.xsom.impl.scd.Iterators.Map" />
+    <EXCLUDED_PACKAGE NAME="javax.validation.metadata.ElementDescriptor" />
     <EXCLUDED_PACKAGE NAME="org.apache.commons.betwixt.ElementDescriptor" />
   </component>
   <component name="DaemonCodeAnalyzerSettings" profile="Glide Inspections" />
