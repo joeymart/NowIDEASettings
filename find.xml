@@ -4,23 +4,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.xml,*.java, *.xml,*.js`</mask>
-      <mask>*.xml,*.java, *.xml</mask>
-      <mask>*.xmk</mask>
-      <mask>*.xm</mask>
-      <mask>sys*.xml</mask>
-      <mask>sys_*.xml</mask>
       <mask>sys_d*.xml</mask>
       <mask>*.xml,*.js,*.java</mask>
       <mask>*.xml,s,*.java</mask>
-      <mask>*.x</mask>
       <mask>*.xml,</mask>
       <mask>*.xml,*,hs</mask>
       <mask>*.xml,*,</mask>
@@ -39,8 +30,15 @@
       <mask>pl</mask>
       <mask>plugin</mask>
       <mask>plugin.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.xlm</mask>
+      <mask>pom.xl</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
