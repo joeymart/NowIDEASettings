@@ -7,15 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="sys_rest*.xml" />
     <recentFileMasks>
-      <mask>sys_d*.xml</mask>
-      <mask>*.xml,*.js,*.java</mask>
-      <mask>*.xml,s,*.java</mask>
-      <mask>*.xml,</mask>
-      <mask>*.xml,*,hs</mask>
-      <mask>*.xml,*,</mask>
-      <mask>*.xml,*</mask>
-      <mask>*.xml,*.</mask>
       <mask>*.xml,*.j</mask>
       <mask>*.jav</mask>
       <mask>*.k</mask>
@@ -28,7 +21,6 @@
       <mask>plugin</mask>
       <mask>plugin.xml</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xlm</mask>
@@ -38,6 +30,15 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.xmlsus</mask>
+      <mask>*.xmlsu</mask>
+      <mask>*.xmls</mask>
+      <mask>*.xml</mask>
+      <mask>s*.xml</mask>
+      <mask>sys*.xml</mask>
+      <mask>sys_*.xml</mask>
+      <mask>sys_re*.xml</mask>
+      <mask>sys_rest*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
