@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.k</mask>
       <mask>*.js</mask>
@@ -24,8 +24,6 @@
       <mask>pom.xlm</mask>
       <mask>pom.xl</mask>
       <mask>pom.x</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xmlsus</mask>
       <mask>*.xmlsu</mask>
       <mask>*.xmls</mask>
@@ -34,11 +32,13 @@
       <mask>sys_*.xml</mask>
       <mask>sys_re*.xml</mask>
       <mask>sys_rest*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>.xml</mask>
       <mask>p.xml</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
