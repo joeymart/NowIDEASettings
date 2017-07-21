@@ -1,16 +1,14 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Module 'glide'" />
-    <option name="defaultScopeName" value="Module 'glide'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'glide'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>*.xml,*.j</mask>
-      <mask>*.jav</mask>
       <mask>*.k</mask>
       <mask>*.js</mask>
       <mask>*.xml,*.js</mask>
@@ -26,7 +24,6 @@
       <mask>pom.xlm</mask>
       <mask>pom.xl</mask>
       <mask>pom.x</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xmlsus</mask>
@@ -37,8 +34,11 @@
       <mask>sys_*.xml</mask>
       <mask>sys_re*.xml</mask>
       <mask>sys_rest*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>p.xml</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
