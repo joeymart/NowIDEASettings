@@ -3,20 +3,18 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.k</mask>
-      <mask>*.js</mask>
-      <mask>*.xml,*.js</mask>
       <mask>*.ja</mask>
       <mask>*.java,</mask>
       <mask>I*.java</mask>
       <mask>pl</mask>
       <mask>plugin</mask>
       <mask>plugin.xml</mask>
-      <mask>*.x</mask>
       <mask>pom</mask>
       <mask>pom.</mask>
       <mask>pom.xlm</mask>
@@ -30,13 +28,17 @@
       <mask>sys_*.xml</mask>
       <mask>sys_re*.xml</mask>
       <mask>sys_rest*.xml</mask>
-      <mask>*.xml</mask>
       <mask>.xml</mask>
       <mask>p.xml</mask>
       <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xmk</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml'</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
