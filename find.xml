@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="sys_ui_action*.xml" />
     <recentFileMasks>
-      <mask>*.ja</mask>
-      <mask>*.java,</mask>
-      <mask>I*.java</mask>
-      <mask>pl</mask>
       <mask>plugin</mask>
       <mask>plugin.xml</mask>
       <mask>pom</mask>
@@ -20,8 +16,6 @@
       <mask>*.xmlsu</mask>
       <mask>*.xmls</mask>
       <mask>s*.xml</mask>
-      <mask>sys*.xml</mask>
-      <mask>sys_*.xml</mask>
       <mask>sys_re*.xml</mask>
       <mask>sys_rest*.xml</mask>
       <mask>.xml</mask>
@@ -29,12 +23,18 @@
       <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xmk</mask>
       <mask>*.xm</mask>
       <mask>*.xml'</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xmk</mask>
+      <mask>*.xml</mask>
+      <mask>sys*.xml</mask>
+      <mask>sys_*.xml</mask>
+      <mask>sys_ui*.xml</mask>
+      <mask>sys_ui_*.xml</mask>
+      <mask>sys_ui_ac*.xml</mask>
+      <mask>sys_ui_action*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
