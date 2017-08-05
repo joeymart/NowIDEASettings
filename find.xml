@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.xmlsus</mask>
-      <mask>*.xmlsu</mask>
       <mask>*.xmls</mask>
       <mask>s*.xml</mask>
       <mask>sys_re*.xml</mask>
@@ -32,9 +32,11 @@
       <mask>plugin.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.ja</mask>
+      <mask>*.jaa</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
