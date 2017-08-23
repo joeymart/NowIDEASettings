@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="plugin.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>pom.xml</mask>
       <mask>*.xm</mask>
@@ -28,15 +28,15 @@
       <mask>*.hav</mask>
       <mask>*.ha</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.xml\</mask>
-      <mask>*</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
       <mask>pl.xml</mask>
       <mask>plu.xml</mask>
       <mask>plugin.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
