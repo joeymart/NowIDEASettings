@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.hava</mask>
       <mask>*.hav</mask>
@@ -17,7 +17,6 @@
       <mask>plugin.</mask>
       <mask>plugin.xml</mask>
       <mask>*</mask>
-      <mask>*.x</mask>
       <mask>*.xmsyl</mask>
       <mask>*.xmsl</mask>
       <mask>sys_ma.xml</mask>
@@ -31,10 +30,11 @@
       <mask>sys_.xml</mask>
       <mask>sys_email.xml</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.ha</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
