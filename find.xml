@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml,*.js" />
     <recentFileMasks>
-      <mask>*.hava</mask>
-      <mask>*.hav</mask>
-      <mask>*.h</mask>
-      <mask>*.xml\</mask>
       <mask>pl.xml</mask>
       <mask>plu.xml</mask>
       <mask>pl</mask>
@@ -34,6 +31,10 @@
       <mask>*.x</mask>
       <mask>*.java</mask>
       <mask>*.xml</mask>
+      <mask>*.xml,</mask>
+      <mask>*.xml,*</mask>
+      <mask>*.xml,*.</mask>
+      <mask>*.xml,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
