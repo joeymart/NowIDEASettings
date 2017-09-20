@@ -5,10 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.xmsyl</mask>
-      <mask>*.xmsl</mask>
-      <mask>sys_ma.xml</mask>
-      <mask>sys_m.xml</mask>
       <mask>sys_ameil.xml</mask>
       <mask>sys_amei.xml</mask>
       <mask>sys_ame.xml</mask>
@@ -34,6 +30,10 @@
       <mask>*.java</mask>
       <mask>*.a</mask>
       <mask>*.</mask>
+      <mask>dic*.xml</mask>
+      <mask>diction*.xml</mask>
+      <mask>dictionary*.xml</mask>
+      <mask>*dictionary*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
