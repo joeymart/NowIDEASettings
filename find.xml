@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>plugin.xml</mask>
       <mask>*.xmsyl</mask>
       <mask>*.xmsl</mask>
       <mask>sys_ma.xml</mask>
@@ -26,14 +26,15 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.jav</mask>
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
       <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.a</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
