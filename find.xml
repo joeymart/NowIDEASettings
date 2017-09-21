@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>sys_ameil.xml</mask>
       <mask>sys_amei.xml</mask>
@@ -18,7 +19,6 @@
       <mask>*.xml,*</mask>
       <mask>*.xml,*.</mask>
       <mask>*.xml,*.js</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*</mask>
       <mask>*.xm</mask>
@@ -26,7 +26,6 @@
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
       <mask>*.x</mask>
-      <mask>*.java</mask>
       <mask>*.a</mask>
       <mask>*.</mask>
       <mask>dic*.xml</mask>
@@ -34,6 +33,8 @@
       <mask>dictionary*.xml</mask>
       <mask>*dictionary*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.ja</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
