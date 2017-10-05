@@ -5,20 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>sys_ameil.xml</mask>
-      <mask>sys_amei.xml</mask>
-      <mask>sys_ame.xml</mask>
-      <mask>sys_am.xml</mask>
-      <mask>sys_a.xml</mask>
-      <mask>sys.xml</mask>
-      <mask>sys_.xml</mask>
-      <mask>sys_email.xml</mask>
-      <mask>.xml</mask>
-      <mask>*.ha</mask>
-      <mask>*.xml,</mask>
-      <mask>*.xml,*</mask>
-      <mask>*.xml,*.</mask>
       <mask>*.xml,*.js</mask>
       <mask>*.j</mask>
       <mask>*.xm</mask>
@@ -26,15 +14,28 @@
       <mask>*.xnk</mask>
       <mask>*.xn</mask>
       <mask>*.a</mask>
-      <mask>dic*.xml</mask>
       <mask>diction*.xml</mask>
-      <mask>dictionary*.xml</mask>
-      <mask>*dictionary*.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
       <mask>*.x</mask>
+      <mask>task.xml</mask>
+      <mask>.xml</mask>
+      <mask>di*.xml</mask>
+      <mask>dic*.xml</mask>
+      <mask>dictionar*.xml</mask>
+      <mask>dictionary*.xml</mask>
+      <mask>*di*.xml</mask>
+      <mask>*dic*.xml</mask>
+      <mask>*dictinoary*.xml</mask>
+      <mask>*dictinoar*.xml</mask>
+      <mask>*dictinoa*.xml</mask>
+      <mask>*dictino*.xml</mask>
+      <mask>*dictin*.xml</mask>
+      <mask>*dicti*.xml</mask>
+      <mask>*dictionary*.xml</mask>
+      <mask>**.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
