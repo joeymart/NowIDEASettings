@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.xml,*.js</mask>
       <mask>*.xm</mask>
@@ -31,9 +32,9 @@
       <mask>*dicti*.xml</mask>
       <mask>*dictionary*.xml</mask>
       <mask>**.xml</mask>
+      <mask>*.xml</mask>
       <mask>*.j</mask>
       <mask>*.java</mask>
-      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
