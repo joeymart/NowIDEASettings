@@ -2,13 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml,*.js" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.xn</mask>
       <mask>*.a</mask>
       <mask>diction*.xml</mask>
-      <mask>*</mask>
       <mask>*.ja</mask>
       <mask>*.x</mask>
       <mask>task.xml</mask>
@@ -27,14 +28,15 @@
       <mask>*dicti*.xml</mask>
       <mask>*dictionary*.xml</mask>
       <mask>**.xml</mask>
-      <mask>*.java</mask>
       <mask>*.hs</mask>
-      <mask>*.j</mask>
       <mask>*.js,</mask>
       <mask>*.js</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
       <mask>*.xml,*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
