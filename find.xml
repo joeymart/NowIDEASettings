@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="plugin.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*dic*.xml</mask>
       <mask>*dictinoary*.xml</mask>
@@ -20,7 +20,6 @@
       <mask>*.js,</mask>
       <mask>*.js</mask>
       <mask>*.xml,*.js</mask>
-      <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.java,</mask>
       <mask>*.java,*</mask>
@@ -29,14 +28,15 @@
       <mask>*.java,l</mask>
       <mask>*.javal</mask>
       <mask>*.ml</mask>
-      <mask>*.</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>pl</mask>
       <mask>plug,</mask>
       <mask>plug</mask>
       <mask>plugin</mask>
       <mask>plugin.xml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
