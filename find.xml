@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="cmdb*.xml" />
     <recentFileMasks>
-      <mask>*dictinoar*.xml</mask>
-      <mask>*dictinoa*.xml</mask>
-      <mask>*dictino*.xml</mask>
-      <mask>*dictin*.xml</mask>
       <mask>*dicti*.xml</mask>
       <mask>*dictionary*.xml</mask>
       <mask>**.xml</mask>
@@ -24,7 +20,6 @@
       <mask>*.java,l</mask>
       <mask>*.javal</mask>
       <mask>*.ml</mask>
-      <mask>*.xml</mask>
       <mask>pl</mask>
       <mask>plug,</mask>
       <mask>plug</mask>
@@ -35,6 +30,11 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.xmlc</mask>
+      <mask>*.xmlcm</mask>
+      <mask>*.xml</mask>
+      <mask>c*.xml</mask>
+      <mask>cmdb*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
