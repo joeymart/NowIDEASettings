@@ -28,14 +28,14 @@
       <mask>*.X</mask>
       <mask>*.x,l</mask>
       <mask>*.x,</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>**.xml</mask>
       <mask>**list.xml</mask>
       <mask>*list.xml</mask>
       <mask>*list*.xml</mask>
       <mask>*</mask>
       <mask>*.ja</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
