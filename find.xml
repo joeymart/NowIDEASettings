@@ -5,20 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*xml,*.js" />
     <recentFileMasks>
-      <mask>*.java,*.xml</mask>
-      <mask>*.java,l</mask>
-      <mask>*.javal</mask>
-      <mask>*.ml</mask>
-      <mask>pl</mask>
-      <mask>plug,</mask>
-      <mask>plug</mask>
-      <mask>plugin</mask>
-      <mask>plugin.xml</mask>
-      <mask>pom</mask>
-      <mask>pom.xml</mask>
-      <mask>*.</mask>
       <mask>*.xmlc</mask>
       <mask>*.xmlcm</mask>
       <mask>c*.xml</mask>
@@ -32,11 +20,23 @@
       <mask>**list.xml</mask>
       <mask>*list.xml</mask>
       <mask>*list*.xml</mask>
-      <mask>*</mask>
       <mask>*.ja</mask>
+      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.java</mask>
+      <mask>*.xml,</mask>
+      <mask>*.xml,*</mask>
+      <mask>*.xml,*.</mask>
+      <mask>*.xml,*.s</mask>
+      <mask>*.xml,*.js</mask>
+      <mask>*</mask>
+      <mask>*ja</mask>
+      <mask>*jav</mask>
+      <mask>*java</mask>
+      <mask>*xml</mask>
+      <mask>*xml,</mask>
+      <mask>*xml,*</mask>
+      <mask>*xml,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
