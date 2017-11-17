@@ -7,13 +7,8 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*java" />
+    <option name="FILE_MASK" value="plugin.xml" />
     <recentFileMasks>
-      <mask>*.xmlc</mask>
-      <mask>*.xmlcm</mask>
-      <mask>c*.xml</mask>
-      <mask>cmdb*.xml</mask>
-      <mask>*.XML</mask>
       <mask>*.XM</mask>
       <mask>*.X</mask>
       <mask>*.x,l</mask>
@@ -39,6 +34,11 @@
       <mask>*xml</mask>
       <mask>*ja</mask>
       <mask>*java</mask>
+      <mask>pl</mask>
+      <mask>plu</mask>
+      <mask>plugin</mask>
+      <mask>plugin.</mask>
+      <mask>plugin.xml</mask>
     </recentFileMasks>
   </component>
 </application>
