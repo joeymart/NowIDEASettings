@@ -5,14 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.xml,*</mask>
-      <mask>*.xml,*.</mask>
-      <mask>*.xml,*.s</mask>
-      <mask>*.xml,*.js</mask>
-      <mask>*jav</mask>
-      <mask>*xml,</mask>
-      <mask>*xml,*</mask>
-      <mask>*xml,*.js</mask>
       <mask>*xml</mask>
       <mask>*ja</mask>
       <mask>*java</mask>
@@ -21,7 +13,6 @@
       <mask>plugin</mask>
       <mask>plugin.</mask>
       <mask>plugin.xml</mask>
-      <mask>.xml</mask>
       <mask>*.j</mask>
       <mask>*.java*soap</mask>
       <mask>*.java*soa</mask>
@@ -34,6 +25,15 @@
       <mask>*.</mask>
       <mask>*.java</mask>
       <mask>*.x</mask>
+      <mask>.xml</mask>
+      <mask>sys.xml</mask>
+      <mask>sys_.xml</mask>
+      <mask>sys_a.xml</mask>
+      <mask>sys_at.xml</mask>
+      <mask>sys_att.xml</mask>
+      <mask>sys_attach.xml</mask>
+      <mask>sys_attachment.xml</mask>
+      <mask>sys_attachment*.xml</mask>
       <mask>*.xml</mask>
     </recentFileMasks>
   </component>
