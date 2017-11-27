@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*xml</mask>
       <mask>*ja</mask>
@@ -12,7 +13,6 @@
       <mask>plugin</mask>
       <mask>plugin.</mask>
       <mask>plugin.xml</mask>
-      <mask>*.j</mask>
       <mask>*.java*soap</mask>
       <mask>*.java*soa</mask>
       <mask>*.java*so</mask>
@@ -22,7 +22,6 @@
       <mask>**.java</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>.xml</mask>
       <mask>sys.xml</mask>
@@ -34,6 +33,8 @@
       <mask>sys_attachment.xml</mask>
       <mask>sys_attachment*.xml</mask>
       <mask>*.xml</mask>
+      <mask>*.j</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
