@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'db-test'" />
-    <option name="defaultScopeName" value="Module 'db-test'" />
-    <option name="SEARCH_SCOPE" value="Module 'db-test'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="Module 'glide'" />
+    <option name="defaultScopeName" value="Module 'glide'" />
+    <option name="SEARCH_SCOPE" value="Module 'glide'" />
     <recentFileMasks>
       <mask>*xml</mask>
       <mask>*ja</mask>
