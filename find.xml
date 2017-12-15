@@ -5,38 +5,38 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="plugin.xml" />
     <recentFileMasks>
-      <mask>.xml</mask>
-      <mask>sys_a.xml</mask>
-      <mask>sys_at.xml</mask>
-      <mask>sys_att.xml</mask>
-      <mask>sys_attach.xml</mask>
-      <mask>sys_attachment.xml</mask>
-      <mask>sys_attachment*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>s.xml</mask>
-      <mask>sys.xml</mask>
-      <mask>sys_.xml</mask>
-      <mask>sys_t.xml</mask>
-      <mask>sys_tr.xml</mask>
-      <mask>sys_tri.xml</mask>
-      <mask>sys_trig.xml</mask>
-      <mask>sys_trigg.xml</mask>
-      <mask>sys_trigger.xml</mask>
       <mask>*.jav</mask>
       <mask>*.kava</mask>
       <mask>*.kav</mask>
       <mask>*</mask>
       <mask>*.ava</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
       <mask>*.jvaa</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>cm.xml</mask>
+      <mask>cmdb.xml</mask>
+      <mask>cmdb_.xml</mask>
+      <mask>cmdb_ci.xml</mask>
+      <mask>cmdb_ci_.xml</mask>
+      <mask>cmdb_ci_s.xml</mask>
+      <mask>cmdb_ci_ser.xml</mask>
+      <mask>cmdb_ci_servi.xml</mask>
+      <mask>cmdb_ci_service.xml</mask>
+      <mask>*.xml</mask>
+      <mask>.xml</mask>
+      <mask>po.xml</mask>
+      <mask>p.xml</mask>
+      <mask>pl.xml</mask>
+      <mask>plun=.xml</mask>
+      <mask>plun.xml</mask>
+      <mask>plu.xml</mask>
+      <mask>plugin.xml</mask>
     </recentFileMasks>
   </component>
 </application>
