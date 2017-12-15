@@ -5,18 +5,16 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="plugin.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.jav</mask>
       <mask>*.kava</mask>
       <mask>*.kav</mask>
-      <mask>*</mask>
       <mask>*.ava</mask>
       <mask>*.</mask>
       <mask>*.jvaa</mask>
       <mask>*.jva</mask>
       <mask>*.jv</mask>
-      <mask>*.java</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
       <mask>cm.xml</mask>
@@ -37,6 +35,8 @@
       <mask>plun.xml</mask>
       <mask>plu.xml</mask>
       <mask>plugin.xml</mask>
+      <mask>*</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
