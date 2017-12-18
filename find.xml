@@ -2,18 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*fix*.xml" />
     <recentFileMasks>
-      <mask>*.jav</mask>
-      <mask>*.kava</mask>
-      <mask>*.kav</mask>
-      <mask>*.ava</mask>
-      <mask>*.</mask>
-      <mask>*.jvaa</mask>
-      <mask>*.jva</mask>
       <mask>*.jv</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
@@ -26,8 +17,6 @@
       <mask>cmdb_ci_ser.xml</mask>
       <mask>cmdb_ci_servi.xml</mask>
       <mask>cmdb_ci_service.xml</mask>
-      <mask>*.xml</mask>
-      <mask>.xml</mask>
       <mask>po.xml</mask>
       <mask>p.xml</mask>
       <mask>pl.xml</mask>
@@ -37,6 +26,15 @@
       <mask>plugin.xml</mask>
       <mask>*</mask>
       <mask>*.java</mask>
+      <mask>**.java</mask>
+      <mask>*di*.java</mask>
+      <mask>*f*.java</mask>
+      <mask>*fix*.java</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
+      <mask>**.xml</mask>
+      <mask>*fi*.xml</mask>
+      <mask>*fix*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
