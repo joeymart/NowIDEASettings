@@ -3,24 +3,14 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="plugin.xml" />
     <recentFileMasks>
-      <mask>cm.xml</mask>
-      <mask>cmdb.xml</mask>
-      <mask>cmdb_.xml</mask>
-      <mask>cmdb_ci.xml</mask>
-      <mask>cmdb_ci_.xml</mask>
-      <mask>cmdb_ci_s.xml</mask>
-      <mask>cmdb_ci_ser.xml</mask>
-      <mask>cmdb_ci_servi.xml</mask>
-      <mask>cmdb_ci_service.xml</mask>
       <mask>po.xml</mask>
       <mask>p.xml</mask>
       <mask>pl.xml</mask>
       <mask>plun=.xml</mask>
       <mask>plun.xml</mask>
       <mask>plu.xml</mask>
-      <mask>plugin.xml</mask>
       <mask>**.java</mask>
       <mask>*di*.java</mask>
       <mask>*f*.java</mask>
@@ -35,6 +25,16 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>pl</mask>
+      <mask>plu</mask>
+      <mask>plug</mask>
+      <mask>plugin</mask>
+      <mask>plugin.cml</mask>
+      <mask>plugin.cxml</mask>
+      <mask>plugin.cx</mask>
+      <mask>plugin.c</mask>
+      <mask>plugin.</mask>
+      <mask>plugin.xml</mask>
     </recentFileMasks>
   </component>
 </application>
