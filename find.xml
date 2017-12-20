@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>pl.xml</mask>
-      <mask>plun=.xml</mask>
       <mask>plun.xml</mask>
       <mask>plu.xml</mask>
       <mask>**.java</mask>
@@ -14,7 +12,6 @@
       <mask>*f*.java</mask>
       <mask>*fix*.java</mask>
       <mask>.xml</mask>
-      <mask>*.xml</mask>
       <mask>**.xml</mask>
       <mask>*fi*.xml</mask>
       <mask>*fix*.xml</mask>
@@ -35,6 +32,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
