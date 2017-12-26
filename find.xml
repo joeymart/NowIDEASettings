@@ -2,16 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>plun.xml</mask>
-      <mask>plu.xml</mask>
-      <mask>**.java</mask>
-      <mask>*di*.java</mask>
       <mask>*f*.java</mask>
       <mask>*fix*.java</mask>
       <mask>.xml</mask>
-      <mask>**.xml</mask>
       <mask>*fi*.xml</mask>
       <mask>*fix*.xml</mask>
       <mask>(</mask>
@@ -30,10 +28,15 @@
       <mask>&amp;</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.x</mask>
+      <mask>**.xml</mask>
+      <mask>*dic*.xml</mask>
+      <mask>*dict*.xml</mask>
+      <mask>*dictionar*.xml</mask>
+      <mask>*dictionary*.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
