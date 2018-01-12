@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java,*.xml,*.js" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>plugin.cx</mask>
       <mask>plugin.c</mask>
@@ -11,16 +11,13 @@
       <mask>plugin.xml</mask>
       <mask>&amp;l</mask>
       <mask>&amp;</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
       <mask>**.xml</mask>
       <mask>*dic*.xml</mask>
       <mask>*dict*.xml</mask>
       <mask>*dictionar*.xml</mask>
       <mask>*dictionary*.xml</mask>
-      <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.java,</mask>
       <mask>*.java,*</mask>
@@ -35,6 +32,9 @@
       <mask>*.java,*.xml,*</mask>
       <mask>*.java,*.xml,*.</mask>
       <mask>*.java,*.xml,*.js</mask>
+      <mask>*</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
