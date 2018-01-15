@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>plugin.cx</mask>
       <mask>plugin.c</mask>
       <mask>plugin.</mask>
       <mask>plugin.xml</mask>
@@ -34,6 +33,7 @@
       <mask>*</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.j</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
