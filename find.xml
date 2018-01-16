@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui_element*" />
     <recentFileMasks>
-      <mask>plugin.c</mask>
-      <mask>plugin.</mask>
-      <mask>plugin.xml</mask>
-      <mask>&amp;l</mask>
-      <mask>&amp;</mask>
-      <mask>*.</mask>
-      <mask>*.xm</mask>
-      <mask>**.xml</mask>
-      <mask>*dic*.xml</mask>
-      <mask>*dict*.xml</mask>
-      <mask>*dictionar*.xml</mask>
-      <mask>*dictionary*.xml</mask>
-      <mask>*.java,</mask>
-      <mask>*.java,*</mask>
-      <mask>*.java,*.</mask>
-      <mask>*.java,*.xml.(.js</mask>
-      <mask>*.java,*.xml.(.j</mask>
-      <mask>*.java,*.xml.(.</mask>
-      <mask>*.java,*.xml.(</mask>
-      <mask>*.java,*.xml.</mask>
-      <mask>*.java,*.xml</mask>
-      <mask>*.java,*.xml,</mask>
-      <mask>*.java,*.xml,*</mask>
-      <mask>*.java,*.xml,*.</mask>
-      <mask>*.java,*.xml,*.js</mask>
-      <mask>*</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-      <mask>*.j</mask>
-      <mask>*.java</mask>
+      <mask>*.xml,!</mask>
+      <mask>*.xml,!sys</mask>
+      <mask>*.xml,!sys_</mask>
+      <mask>*.xml,!sys_ui</mask>
+      <mask>*.xml,!sys_ui_</mask>
+      <mask>*.xml,!sys_ui_s</mask>
+      <mask>*.xml,!sys_ui_sec</mask>
+      <mask>*.xml,!sys_ui_section</mask>
+      <mask>*.xml,!sys_ui_section*</mask>
+      <mask>*.xml,!sys_ui_section*,</mask>
+      <mask>*.xml,!sys_ui_section*,!</mask>
+      <mask>*.xml,!sys_ui_section*,!sys</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_u</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_s</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_sec</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui_</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui_element</mask>
+      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui_element*</mask>
     </recentFileMasks>
   </component>
 </application>
