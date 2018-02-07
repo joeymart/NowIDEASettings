@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.java,*.xml,*.js" />
     <recentFileMasks>
       <mask>*.xml,!sys_ui_section*</mask>
       <mask>*.xml,!sys_ui_section*,</mask>
@@ -32,9 +32,9 @@
       <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>plugin.xml</mask>
-      <mask>*.java,*.xml,*.js</mask>
-      <mask>*.java,*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.java,*.xml</mask>
+      <mask>*.java,*.xml,*.js</mask>
     </recentFileMasks>
   </component>
 </application>
