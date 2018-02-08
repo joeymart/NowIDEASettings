@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.xml,!sys_ui_section*</mask>
       <mask>*.xml,!sys_ui_section*,</mask>
       <mask>*.xml,!sys_ui_section*,!</mask>
       <mask>*.xml,!sys_ui_section*,!sys</mask>
@@ -34,6 +33,7 @@
       <mask>*.java,*.xml</mask>
       <mask>*.java,*.xml,*.js</mask>
       <mask>*.java</mask>
+      <mask>*.java,*</mask>
     </recentFileMasks>
   </component>
 </application>
