@@ -34,6 +34,23 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="id" value="ed30a0dc-61e5-4594-9b11-1c44501d7fa6" />
+                      <option name="showCountInConsole" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-14336" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                          <option name="id" value="77fbc470-8f9e-447f-8fe2-4a751f01e62d" />
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*SEVERE.*" />
+                      <option name="id" value="7ade89ea-a53f-4d35-a9ab-e89867b49605" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
@@ -49,6 +66,7 @@
                     <GrepExpressionItem>
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="id" value="edc05ac6-fe42-4a98-be2a-13d95d8f8026" />
+                      <option name="showCountInConsole" value="true" />
                       <option name="style">
                         <GrepStyle>
                           <option name="backgroundColor">
