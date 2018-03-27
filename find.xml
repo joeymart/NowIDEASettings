@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java,*.xml" />
     <recentFileMasks>
       <mask>*.xml,!sys_ui_section*,!</mask>
       <mask>*.xml,!sys_ui_section*,!sys</mask>
@@ -32,10 +33,10 @@
       <mask>plugin.xml</mask>
       <mask>*.java,*.xml,*.js</mask>
       <mask>*.java,*</mask>
-      <mask>*.java,*.xml</mask>
       <mask>*.java,*.properties</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
+      <mask>*.java,*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
