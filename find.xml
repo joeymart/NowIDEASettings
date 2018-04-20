@@ -32,8 +32,8 @@
       <mask>*.java,*.xml,*.js</mask>
       <mask>*.java,*</mask>
       <mask>*.java,*.properties</mask>
-      <mask>*.xml</mask>
       <mask>*.java,*.xml</mask>
+      <mask>*.xml</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
