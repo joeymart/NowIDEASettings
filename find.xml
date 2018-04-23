@@ -3,38 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
-    <recentFileMasks>
-      <mask>*.xml,!sys_ui_section*,!</mask>
-      <mask>*.xml,!sys_ui_section*,!sys</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_u</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_s</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_sec</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui_</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui_element</mask>
-      <mask>*.xml,!sys_ui_section*,!sys_ui_form_section*,!*sys_ui_element*</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>pom.xml</mask>
-      <mask>plugin.xml</mask>
-      <mask>*.java,*.xml,*.js</mask>
-      <mask>*.java,*</mask>
-      <mask>*.java,*.properties</mask>
-      <mask>*.java,*.xml</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-    </recentFileMasks>
   </component>
 </application>
