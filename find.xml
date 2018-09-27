@@ -20,7 +20,7 @@
     <mask>*.java,*.properties,*.xml</mask>
     <mask>*.java,*.xml</mask>
     <mask>*.xml,*.js</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
