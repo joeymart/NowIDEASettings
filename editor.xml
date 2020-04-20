@@ -1,6 +1,7 @@
 <application>
   <component name="DaemonCodeAnalyzerSettings" profile="Glide Inspections" />
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="12" />
     <option name="FONT_FAMILY" value="Menlo" />
     <option name="LINE_SPACING" value="1.0" />
   </component>
