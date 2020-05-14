@@ -23,8 +23,8 @@
     <mask>sys_script_include*.xml</mask>
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
-    <mask>*.xml,*.java,*.js</mask>
     <mask>*.java</mask>
+    <mask>*.xml,*.java,*.js</mask>
     <mask>*.xml,*.java,*.js</mask>
   </component>
 </application>
