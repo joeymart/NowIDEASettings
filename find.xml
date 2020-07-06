@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -21,7 +21,6 @@
     <mask>*.xml,*.java, *.properties</mask>
     <mask>*.js</mask>
     <mask>*.xml,*.java,*.js, *.properties</mask>
-    <mask>*.properties</mask>
     <mask>sys_ui_page*.xml</mask>
     <mask>sys_script_include*.xml</mask>
     <mask>*.xml</mask>
@@ -30,5 +29,6 @@
     <mask>*.xml,*.java,*.js</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
