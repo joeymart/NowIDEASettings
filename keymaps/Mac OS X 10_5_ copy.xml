@@ -1,4 +1,8 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CallHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="CopyElement" />
   <action id="EditBreakpoint">
     <keyboard-shortcut first-keystroke="shift meta f8" />
