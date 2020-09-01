@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../glide/glide/src/com/glide/sys/cache/CacheManager.java [glide]'" />
+    <option name="defaultScopeName" value="File '.../glide/glide/src/com/glide/sys/cache/CacheManager.java [glide]'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../glide/glide/src/com/glide/sys/cache/CacheManager.java [glide]'" />
     <option name="FILE_MASK" value="*.xml,*.java,*.js,*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
