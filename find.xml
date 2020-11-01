@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml,*.java,*.js,*.properties" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -19,7 +19,6 @@
     <mask>*.xml,*.java,*.js, *.properties</mask>
     <mask>sys_ui_page*.xml</mask>
     <mask>sys_script_include*.xml</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml,*.java,*.js</mask>
     <mask>*.xml,*.java,*.js</mask>
     <mask>*.properties</mask>
@@ -27,5 +26,6 @@
     <mask>*.java</mask>
     <mask>sys_db_view*.xml</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
