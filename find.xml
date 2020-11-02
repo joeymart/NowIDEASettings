@@ -27,6 +27,7 @@
     <mask>plugin.xml</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*fix*xml</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
   </component>
 </application>
