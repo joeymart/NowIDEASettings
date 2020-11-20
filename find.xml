@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../glide/glide/src/com/glide/quota/QuotaFinder.java [glide]'" />
-    <option name="defaultScopeName" value="File '.../glide/glide/src/com/glide/quota/QuotaFinder.java [glide]'" />
-    <option name="SEARCH_SCOPE" value="File '.../glide/glide/src/com/glide/quota/QuotaFinder.java [glide]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.xml,*.java,*.js,*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
