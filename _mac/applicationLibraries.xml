@@ -312,6 +312,81 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="facter (v1.7.5, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.5/spec" />
+      </excluded>
+    </library>
+    <library name="facter (v1.7.6, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-1.7.6/spec" />
+      </excluded>
+    </library>
+    <library name="facter (v2.5.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/etc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/facter-2.5.1-universal-darwin/spec" />
+      </excluded>
+    </library>
     <library name="fiddle (v1.0.0, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -353,6 +428,41 @@
       </properties>
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="hiera (v1.3.4, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hiera-1.3.4/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hiera-1.3.4/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hiera-1.3.4/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hiera-1.3.4/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hiera-1.3.4/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hiera-1.3.4/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hiera-1.3.4/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hiera-1.3.4/spec" />
+      </excluded>
+    </library>
+    <library name="hocon (v1.3.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hocon-1.3.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hocon-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hocon-1.3.1/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hocon-1.3.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/hocon-1.3.1/bin" />
+      </excluded>
     </library>
     <library name="io-console (v0.4.7, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
@@ -434,6 +544,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/2.7.0/json/add" />
+      </excluded>
+    </library>
+    <library name="json_pure (v2.5.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json_pure-2.5.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json_pure-2.5.1/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json_pure-2.5.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json_pure-2.5.1/tests" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json_pure-2.5.1/tests" />
       </excluded>
     </library>
     <library name="libxml-ruby (v3.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
@@ -736,6 +862,62 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/psych/visitors" />
       </excluded>
     </library>
+    <library name="puppet (v3.4.3, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/man" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/conf" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/tasks" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/man" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/conf" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/tasks" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/ext" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/man" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/conf" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/tasks" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppet-3.4.3/examples" />
+      </excluded>
+    </library>
+    <library name="puppetmodule-stdlib (v4.0.2, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/tests" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/manifests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/tests" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/manifests" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/spec" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/tests" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/puppetmodule-stdlib-4.0.2/manifests" />
+      </excluded>
+    </library>
     <library name="racc (v1.4.16, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -967,6 +1149,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/2.7.0/rexml/validation" />
       </excluded>
     </library>
+    <library name="rgen (v0.6.6, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rgen-0.6.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rgen-0.6.6/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rgen-0.6.6/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rgen-0.6.6/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rgen-0.6.6/test" />
+      </excluded>
+    </library>
     <library name="rss (v0.2.7, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1185,6 +1383,22 @@
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/doc" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/test" />
         <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/sample" />
+      </excluded>
+    </library>
+    <library name="thor (v1.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/thor-1.1.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/thor-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/thor-1.1.0/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/thor-1.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/thor-1.1.0/bin" />
       </excluded>
     </library>
     <library name="thwait (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
