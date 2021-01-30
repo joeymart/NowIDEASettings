@@ -1165,6 +1165,28 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/test-unit-3.3.4/sample" />
       </excluded>
     </library>
+    <library name="test-unit (v3.4.0, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/doc" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/test" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/test-unit-3.4.0/sample" />
+      </excluded>
+    </library>
     <library name="thwait (v0.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
