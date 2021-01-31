@@ -546,6 +546,22 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/2.7.0/json/add" />
       </excluded>
     </library>
+    <library name="json-stream (v0.2.1, ruby-2.6.3-p62) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-stream-0.2.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-stream-0.2.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-stream-0.2.1/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-stream-0.2.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/json-stream-0.2.1/spec" />
+      </excluded>
+    </library>
     <library name="json_pure (v2.5.1, ruby-2.6.3-p62) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
