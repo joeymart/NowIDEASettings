@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../.rbenv/linux-2.6-libc-2.5-x86_64/versions/2.5.1/lib/ruby/gems/2.5.0/gems/parallel-forkmanager-2.0.1/lib/parallel/forkmanager.rb'" />
-    <option name="defaultScopeName" value="File '.../.rbenv/linux-2.6-libc-2.5-x86_64/versions/2.5.1/lib/ruby/gems/2.5.0/gems/parallel-forkmanager-2.0.1/lib/parallel/forkmanager.rb'" />
-    <option name="SEARCH_SCOPE" value="File '.../.rbenv/linux-2.6-libc-2.5-x86_64/versions/2.5.1/lib/ruby/gems/2.5.0/gems/parallel-forkmanager-2.0.1/lib/parallel/forkmanager.rb'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.rb" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
