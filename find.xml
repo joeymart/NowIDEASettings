@@ -29,6 +29,7 @@
     <mask>*.xml,*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.java,*.class</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
     <mask>*.rb</mask>
   </component>
