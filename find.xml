@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../snc/tcpdump_parser.rb'" />
-    <option name="defaultScopeName" value="File '.../snc/tcpdump_parser.rb'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../snc/tcpdump_parser.rb'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml,*.java,*.js,*.properties" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -30,7 +31,7 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.java,*.class</mask>
-    <mask>*.xml,*.java,*.js,*.properties</mask>
     <mask>*.rb</mask>
+    <mask>*.xml,*.java,*.js,*.properties</mask>
   </component>
 </application>
