@@ -14458,6 +14458,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/win32-api/1.10.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/win32-api-1.10.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/win32-api-1.10.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/win32-api-1.10.1/pkg" />
@@ -14465,6 +14466,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/win32-api-1.10.1/vendor" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs27/win32-api/1.10.1" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/win32-api-1.10.1/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/win32-api-1.10.1/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.7.2/lib/ruby/gems/2.7.0/gems/win32-api-1.10.1/pkg" />
