@@ -32,10 +32,10 @@
     <mask>*.xml,*.js,*.properties</mask>
     <mask>pom.xml</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java,*.class</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*.xml,*.java,*.js,*.properties,*.class</mask>
   </component>
 </application>
