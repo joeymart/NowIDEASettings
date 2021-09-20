@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.rb*" />
+    <option name="FILE_MASK" value="*.java,*.class" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -22,19 +22,18 @@
     <mask>sys_script_include*.xml</mask>
     <mask>*.xml,*.java,*.js</mask>
     <mask>*.xml,*.java,*.js</mask>
-    <mask>*.properties</mask>
     <mask>sys_db_view*.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*fix*xml</mask>
     <mask>*.xml,*.js</mask>
     <mask>*.rb</mask>
-    <mask>*.java,*.class</mask>
     <mask>*.xml,*.js,*.properties</mask>
     <mask>pom.xml</mask>
-    <mask>*.java</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
-    <mask>*.rbw</mask>
-    <mask>*.rb*</mask>
+    <mask>*.xml,*.java,*.js,*.properties,*.class</mask>
+    <mask>*.java,*.class</mask>
   </component>
 </application>
