@@ -1371,10 +1371,10 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/CFPropertyList-2.3.6/lib" />
+        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/CFPropertyList-2.3.6/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/CFPropertyList-2.3.6/lib" />
+        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/CFPropertyList-2.3.6/lib" />
       </SOURCES>
     </library>
     <library name="CFPropertyList (v3.0.3, rbenv: 2.7.2) [gem]" type="rubylib">
@@ -5786,22 +5786,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.6.0/gems/launchy-2.5.0/tasks" />
       </excluded>
     </library>
-    <library name="libxml-ruby (v3.1.0, ruby-2.6.3-p62) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
-      <CLASSES>
-        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/ext" />
-        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/ext" />
-        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/lib" />
-      </SOURCES>
-      <excluded>
-        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/libxml-ruby-3.1.0/ext" />
-      </excluded>
-    </library>
     <library name="license_finder (v6.10.1, rbenv: 2.7.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6456,18 +6440,15 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mini_portile2-2.4.0/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mini_portile2-2.4.0/test" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
+        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/lib" />
+        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
       </CLASSES>
       <SOURCES>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mini_portile2-2.4.0/lib" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mini_portile2-2.4.0/test" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
+        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/lib" />
+        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
       </SOURCES>
       <excluded>
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mini_portile2-2.4.0/test" />
-        <root url="file:///Library/Ruby/Gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
+        <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/gems/2.6.0/gems/mini_portile2-2.4.0/concourse" />
       </excluded>
     </library>
     <library name="mini_portile2 (v2.5.0, rbenv: 2.7.2) [gem]" type="rubylib">
