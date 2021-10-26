@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml,*.java,*.js,*.properties,*.class" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -17,7 +18,6 @@
     <mask>*.pom</mask>
     <mask>*.xml,*.java</mask>
     <mask>*.xml,*.java, *.properties</mask>
-    <mask>*.js</mask>
     <mask>*.xml,*.java,*.js, *.properties</mask>
     <mask>sys_ui_page*.xml</mask>
     <mask>sys_script_include*.xml</mask>
@@ -29,12 +29,13 @@
     <mask>*.xml,*.js</mask>
     <mask>*.rb</mask>
     <mask>*.xml,*.js,*.properties</mask>
-    <mask>pom.xml</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
     <mask>*.properties</mask>
+    <mask>pom.xml</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
+    <mask>*.js</mask>
     <mask>*.java,*.class</mask>
+    <mask>*.xml</mask>
     <mask>*.xml,*.java,*.js,*.properties,*.class</mask>
   </component>
 </application>
