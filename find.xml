@@ -30,10 +30,10 @@
     <mask>*.java,*.class</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.xml,*.java,*.js,*.properties,*.class</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
