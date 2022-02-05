@@ -7,7 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.xml`</mask>
@@ -28,14 +27,14 @@
     <mask>*.xml,*.js,*.properties</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
     <mask>*.java,*.class</mask>
+    <mask>pom.xml</mask>
+    <mask>*.xml,*.java,*.js,*.properties,*.class</mask>
+    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>pom.xml</mask>
-    <mask>*.xml,*.java,*.js,*.properties,*.class</mask>
-    <mask>*.js</mask>
   </component>
 </application>
