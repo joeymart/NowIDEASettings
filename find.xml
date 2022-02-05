@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml,*.java,*.js,*.properties,*.class" />
+    <option name="FILE_MASK" value="pom.xml" />
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.xml`</mask>
@@ -25,7 +25,6 @@
     <mask>*.rb</mask>
     <mask>*.xml,*.js,*.properties</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
-    <mask>pom.xml</mask>
     <mask>*.js</mask>
     <mask>*.java,*.class</mask>
     <mask>*.css</mask>
@@ -35,5 +34,6 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.xml,*.java,*.js,*.properties,*.class</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
