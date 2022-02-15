@@ -30,7 +30,6 @@
     <mask>*.xml,*.js,*.properties</mask>
     <mask>*.xml,*.java,*.js,*.properties</mask>
     <mask>*.java,*.class</mask>
-    <mask>pom.xml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -39,6 +38,7 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*SP*java</mask>
+    <mask>pom.xml</mask>
     <mask>*.xml,*.java,*.js,*.properties,*.class</mask>
   </component>
 </application>
